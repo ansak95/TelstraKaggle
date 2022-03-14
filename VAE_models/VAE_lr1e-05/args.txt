@@ -1,0 +1,1 @@
+Namespace(device=0, epochs=100000, lr=1e-05, path='', wgt=0.0001)
