@@ -78,12 +78,6 @@ wgt = args.wgt
 
  
 import os
-# os.chdir("/home/anassakrim/FolderThesis/DB1602/FolderSSL_Nov21/Fine_tuning/TempHiddenState")
-# fd = 'GenerateSet/'
-# os.makedirs(fd)
-# fd_km = fd + args.folder_data
-
-
 
 # instantiate model
 torch.manual_seed(7)
